@@ -177,6 +177,7 @@
     text-decoration: none;
     height: 100%;
     display: block;
+    cursor: pointer;
 }
 
 .card {
@@ -237,6 +238,7 @@
     padding-top: 30px;
     text-decoration: underline;
     text-underline-offset: 5px;
+    cursor: pointer;
 }
 
 .about {
@@ -316,6 +318,7 @@
 
 .footer__menu-link_active {
     text-decoration: none;
+    cursor: initial;
 }
 
 .footer__social-list {
